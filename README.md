@@ -1,3 +1,3 @@
-# GifExpertApp
+# Buscador de Gifs App
 
-Este es mi repositorio del proyecto de GifExpertApp de React
+App que utiliza la API Giphy para obtener los gifs buscados
